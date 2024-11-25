@@ -1,4 +1,5 @@
 # phbs-qps-2024
+https://github.com/theater27/phbs-qps-2024
 # US CPI Inflation Analysis
 
 This project fetches and analyzes US Consumer Price Index (CPI) data to calculate quarterly inflation rates.
